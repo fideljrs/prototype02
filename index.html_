@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<img src="https://www.hostingssi.com/png/logo.png" class="img-fluid w-logo" alt="HostingSSi" style="margin-top:20px; margin-bottom:20px;">
+			</div>
+		</header>
+		<section>
+			<div class="container">
+				<div class="jumbotron">
+				  <h1 class="display-4">Bienvenido a HostingSSi</h1>
+				  <p class="lead">¡Nos alegra mucho que seas parte de nuestra Gran Familia!</p>
+				  <hr class="my-4">
+				  <p style="font-size:20px;"><b>Tu sitio web ha sido configurado satisfactoriamente ¡Empieza Ahora!</b></p>
+				  <a class="btn btn-primary btn-lg" href="https://mi.hostingssi.com/clientarea.php" role="button">Ingresar</a>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8">
+						<div class="card text-center">
+						  <div class="card-header">
+							Soporte
+						  </div>
+						  <div class="card-body">
+							<h5 class="card-title">¿Necesitas Ayuda?</h5>
+							<p class="card-text">Estamos disponibles de Lunes a Viernes 9am - 5pm</p>
+							<p class="card-text"><b>Llamanos al 0212 7201217</b> Ó</p>
+							
+							<a href="https://tawk.to/chat/5c4efc4151410568a108fbe1/default" class="btn btn-primary">Incia un Chat</a>
+						  </div>
+						  <div class="card-footer text-muted">
+							Â¡No te hacemos esperar!
+						  </div>
+					</div>
+					</div>
+					<div class="col-lg-4">
+						<ul class="list-group">
+						  <li class="list-group-item active">Conócenos más</li>
+						  <li class="list-group-item"><a href="https://www.hostingssi.com/porque-hostingssi/">¿Por qué HostingSSi?</a></li>
+						  <li class="list-group-item"><a href="https://www.hostingssi.com/nosotros/">Acerca de Nosotros</a></li>
+						  <li class="list-group-item"><a href="https://www.hostingssi.com/nosotros/centro-de-datos.shtml">Centro de Datos</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="container" style="margin-top:50px;">
+				<hr>
+				<p>© 2019 Corporación Hosting SSi, C.A Las Marcas y Nombres son propiedad de sus respectivos dueños.</p>
+			</div>
+		</footer>
+	</body>
+</html>
